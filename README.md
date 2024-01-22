@@ -1,4 +1,4 @@
-# 🐣 mini-python-projects
+# 🐣 python-mini-projects
 
 Mini projects for getting familiar with different python libraries and APIs
 
