@@ -20,5 +20,4 @@ VENV DEACTIVATED
 
 python3 → /usr/bin/python3
 pip3 → /usr/bin/pip3
-Edwards-MacBook-Air [bash venv.sh] ~/Code/python-mini-projects/python-venv
 ```
