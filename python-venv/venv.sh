@@ -4,7 +4,6 @@
 echo 'SYSTEM PYTHON3'
 echo
 
-
 python3 -m venv .venv
 
 python3_path=$(which python3)
