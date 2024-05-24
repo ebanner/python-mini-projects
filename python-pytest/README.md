@@ -1,6 +1,6 @@
 # python-pytest
 
-API tests with pytest
+API tests with pytest and [jsonplaceholder](https://jsonplaceholder.typicode.com)
 
 ## Run
 
