@@ -2,6 +2,14 @@
 
 Install a python virtual environment with [`venv`](https://docs.python.org/3/library/venv.html)
 
+## Commands
+
+```
+python3 -m venv .venv
+source .venv/bin/activate
+deactivate
+```
+
 ## Running
 
 ```
