@@ -18,6 +18,5 @@ pip install ipykernel
 ### Add the kernel to jupyter
 
 ```
-% python -m ipykernel install --user --name myenv --display-name "Python (myenv)"
-Installed kernelspec test in /Users/edward/Library/Jupyter/kernels/myenv
+python -m ipykernel install --user --name myenv --display-name "Python (myenv)"
 ```
