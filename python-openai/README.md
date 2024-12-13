@@ -28,5 +28,5 @@ https://platform.openai.com/docs/quickstart
 ## Install
 
 ```
-pip install --upgrade openai
+pip install openai python-dotenv
 ```
